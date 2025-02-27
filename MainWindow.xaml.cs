@@ -1,4 +1,5 @@
-﻿/*using System;
+﻿/* /THIS CODE ONLY FOR API CALL WHERE YOUR CHAT ASSISTANT CALL GEMINI API #
+using System;
 using System.Windows;
 using System.Windows.Controls;
 using System.Net.Http;
@@ -13,7 +14,7 @@ namespace GeminiJarvis
     public partial class MainWindow : Window
     {
         // Gemini API Configuration
-        private const string GeminiApiKey = "AIzaSyDpEP-lr7J8-WEcBc4JOzJURSykvnyh7mA";
+        private const string GeminiApiKey = " PASTE YOUR API KEY";
         private const string GeminiEndpoint = "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent";
 
         // Speech components
@@ -191,7 +192,7 @@ namespace GeminiJarvis
     {
         public string text { get; set; }
     }
-}*/
+}*/ #THIS CODE ONLY FOR API CALL WHERE YOUR CHAT ASSISTANT CALL GEMINI API #
 
 using System;
 using System.Windows;
@@ -211,7 +212,7 @@ namespace GeminiJarvis
     public partial class MainWindow : Window
     {
         // Gemini API Configuration
-        private const string GeminiApiKey = "AIzaSyDpEP-lr7J8-WEcBc4JOzJURSykvnyh7mA";
+        private const string GeminiApiKey = "PASTE YOUR API KEY";
         private const string GeminiEndpoint = "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent";
 
         // Speech components
