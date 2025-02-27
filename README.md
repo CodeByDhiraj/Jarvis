@@ -1,4 +1,4 @@
-#J.A.R.V.I.S - AI Assistant for Windows
+#J.A.R.V.I.S - CHAT AI Assistant for Windows
 Project Overview:
 
 #J.A.R.V.I.S# is a sophisticated AI assistant application designed for the Windows platform, leveraging the capabilities of the Gemini API to generate intelligent, context-aware responses. This application features both text-based and voice-based interaction, providing users with a seamless and interactive experience. The assistant is capable of performing various offline tasks such as opening applications, searching the web, and navigating to predefined websites, all while offering real-time chat and voice feedback.
